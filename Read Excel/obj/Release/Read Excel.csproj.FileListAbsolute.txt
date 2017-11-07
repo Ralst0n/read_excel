@@ -1,0 +1,12 @@
+C:\Users\rlawson\Documents\Visual Studio 2017\Projects\Read Excel (1)\Read Excel\Read Excel\bin\Release\Read Excel.exe.config
+C:\Users\rlawson\Documents\Visual Studio 2017\Projects\Read Excel (1)\Read Excel\Read Excel\bin\Release\Read Excel.exe
+C:\Users\rlawson\Documents\Visual Studio 2017\Projects\Read Excel (1)\Read Excel\Read Excel\bin\Release\Read Excel.pdb
+C:\Users\rlawson\Documents\Visual Studio 2017\Projects\Read Excel (1)\Read Excel\Read Excel\bin\Release\itextsharp.dll
+C:\Users\rlawson\Documents\Visual Studio 2017\Projects\Read Excel (1)\Read Excel\Read Excel\bin\Release\itextsharp.xml
+C:\Users\rlawson\Documents\Visual Studio 2017\Projects\Read Excel (1)\Read Excel\Read Excel\obj\Release\Read Excel.csproj.ResolveComReference.cache
+C:\Users\rlawson\Documents\Visual Studio 2017\Projects\Read Excel (1)\Read Excel\Read Excel\obj\Release\Read_Excel.Form1.resources
+C:\Users\rlawson\Documents\Visual Studio 2017\Projects\Read Excel (1)\Read Excel\Read Excel\obj\Release\Read_Excel.Properties.Resources.resources
+C:\Users\rlawson\Documents\Visual Studio 2017\Projects\Read Excel (1)\Read Excel\Read Excel\obj\Release\Read Excel.csproj.GenerateResource.Cache
+C:\Users\rlawson\Documents\Visual Studio 2017\Projects\Read Excel (1)\Read Excel\Read Excel\obj\Release\Read Excel.exe
+C:\Users\rlawson\Documents\Visual Studio 2017\Projects\Read Excel (1)\Read Excel\Read Excel\obj\Release\Read Excel.pdb
+C:\Users\rlawson\Documents\Visual Studio 2017\Projects\Read Excel (1)\Read Excel\Read Excel\obj\Release\Read Excel.csprojResolveAssemblyReference.cache
